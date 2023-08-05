@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+COMANDO PARA VIZUALIASAR TECLADO DE EMOJI É WIN + (.)
 -->
 
 #####
+- 💼 Redes
 - 📚 Estudante de Engenharia de Sofware
 - 💙 Unicessumar
 - 💜 Udemy
