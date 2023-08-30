@@ -20,8 +20,9 @@ COMANDO PARA VIZUALIASAR TECLADO DE EMOJI É WIN + (.)
 - 💼 Redes
 - 📚 Estudante de Engenharia de Sofware
 - 💙 Unicessumar
-- 💜 Udemy
-- 📈 Focando em Engenharia de dados
+- 📚 Aprimoro: 💜 Udemy  🩵 DIO  ❤️ CodWar  🧡 HashtagTreinamento ..
+- 🧡 AWS 
+- 📈 Foco em Engenharia de dados
 
 ---
 ##### *Conhecimento em:* <br>
