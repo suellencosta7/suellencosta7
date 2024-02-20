@@ -17,7 +17,7 @@ COMANDO PARA VIZUALIASAR TECLADO DE EMOJI É WIN + (.)
 -->
 
 #####
-- 💼 Desenvolveora 
+- 💼 Desenvolvedora 
 - 📚 Estudante de Engenharia de Sofware
 - 💙 Unicessumar
 - 📚 Aprimoro: 💜 Udemy  🩵 DIO  ❤️ CodWar  🧡 HashtagTreinamento ..
